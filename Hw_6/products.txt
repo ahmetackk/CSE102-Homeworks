@@ -1,0 +1,5 @@
+1,D,Ayran,Sutas,20.5
+2,C,Simit,Firin,7.5
+3,D,Su,Erikli,5.0
+4,A,Sut,Sutas,12.5
+5,A,Pogaca,Firin,7.5

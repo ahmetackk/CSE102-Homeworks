@@ -1,0 +1,9 @@
+1,2,Istanbul,100
+2,1,Kocaeli,10
+3,1,Ankara,20
+4,1,Izmır,30
+5,3,Istanbul,70
+6,3,Bursa,70
+7,4,Bursa,0
+8,2,Ankara,50
+9,3,Erzurum,15
